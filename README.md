@@ -1,6 +1,6 @@
-############################################################
+
 # Yocto Base Configuration for Raspberry Pi 5
-############################################################
+
 This configuration defines a customized Yocto environment 
 optimized for building embedded Linux images targeting 
 the Raspberry Pi 5 platform.
